@@ -19,7 +19,7 @@ namespace AspNetCoreAngular2
             var builder = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json")
                 .AddEnvironmentVariables();
-            //Configuration = builder.Build();
+            builder.Build();
         }
 
 		//public IConfigurationRoot Configuration { get; set; }
