@@ -36,8 +36,8 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-src/AspNetCoreAngular2/bin
-src/AspNetCoreAngular2/obj
-src/AspNetCoreAngular2/wwwroot/libs
-src/AspNetCoreAngular2/wwwroot/appScripts
-src/AspNetCoreAngular2/node_modules
+#src/AspNetCoreAngular2/bin
+#src/AspNetCoreAngular2/obj
+#src/AspNetCoreAngular2/wwwroot/libs
+#src/AspNetCoreAngular2/wwwroot/appScripts
+#src/AspNetCoreAngular2/node_modules
