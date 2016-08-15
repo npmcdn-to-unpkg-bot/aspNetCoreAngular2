@@ -63,10 +63,7 @@
     ],
     "excludeFiles": [
       "node_modules",
-      "bower_components",
-      "**.xproj",
-      "**.user",
-      "**.vspscc"
+      "bower_components"
     ]
   }
 }
